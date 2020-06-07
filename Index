@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset= "utf-8">
+		<title>Music</title>
+		<style type = "text/css">
+		h1 {color: Purple; text-align: center; font-size: 6.0em;}
+		h2 {color: Purple; font-size: 50px}
+		h3 {color: }
+		p {color: Gold; font-size: 4.5em; text-align: center}
+		.monospace {font-family: "Lucida Console", Courier, monospace;}
+		body {background-color: black;}
+		.button{
+			background-color: #BA55D3;
+			border: none;
+			color: Black;
+			text-align: center;
+			display: inline-block;
+			font-size: 35px;
+			marign: 4px 2px;
+			cursor: pointer;
+			}
+		</style>
+		
+	</head>
+	<body>
+		<h1 class="monospace">&#128512 Music to Listen To &#128512</h1>
+		<hr>
+		<p class="monospace">Music Videos that I enjoy watching and listening to. I hope you do too! Enjoy!</p>
+		<br>
+		<table width="100%">
+			<tr>
+				<th><h2> Korean Songs </h2></th>
+				<th><h2> Chinese Songs </h2></th>
+				<th><h2> English Songs </h2></th>
+				<th><h2> Spanish Songs </h2></th>
+				<th><h2> Japanese Songs </h2></th>
+			</tr>
+			<tr>
+				<td><audio controls><source src="" type="audio/mp3"> BTS - MIC Drop</p></audio></td>
+				<td><audio controls><source src="" type="audio/mp3"> Yoga Lin - Freedom</p></audio></td>
+				<td><audio controls><source src="" type="audio/mp3"> Green Day - 21 Guns</p></audio></td>
+				<td><audio controls><source src="" type="audio/mp3"> Selena - Como La Flor</p></audio></td>
+				<td><audio controls><source src="" type="audio/mp3"> Flow - Colors</p></audio></td>
+			</tr>	
+			<tr>
+				<td><h3> BTS - MIC Drop</h3></td>
+			</tr>
+		
+	</body>	
+</html>	
